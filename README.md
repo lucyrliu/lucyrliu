@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there👋</h1>
+
+### 💡 About Me
+
+Hey! My name is Lucy. I'm a senior majoring in Computer Science and minoring in Finance. I am also very involved with my school's Women in Computer Science club. I'm currently an AI/ML fellow at Cornell Breakthrough Tech, where I've developed supervised learning models and neural network NLP models for sentiment analysis. 
+
+
+---
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/lucy-jiayi-liu/)  
+📬 Reach me: liujiayi.lucy@gmail.com
 
 <!--
 **lucyrliu/lucyrliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
